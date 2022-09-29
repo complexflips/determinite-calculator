@@ -1,6 +1,6 @@
 // determinite calculator.cpp 
 // coded by Aubreye Freeman
-// this program is coded in order to find the determinate of a function 
+// this program is coded in order to find the determinate of a matrix 
 
 #include <iostream>
 #include <vector>
